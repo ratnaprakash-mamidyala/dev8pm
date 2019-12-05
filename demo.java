@@ -1,3 +1,10 @@
+class sample
+{
+  === test code ===
+  === test code ===
+  === test code ===
+  === test code ===
+}
 class demo
 {
   public static void main()
