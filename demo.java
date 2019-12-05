@@ -1,5 +1,11 @@
 
- 
+ class MASTER-CODE
+ {
+    ..... Master code
+    ..... Master code
+    ..... Master code
+    ..... Master code
+ } 
 
  class demo
  {  
