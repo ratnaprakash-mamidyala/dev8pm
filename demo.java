@@ -1,3 +1,9 @@
+ void Deposite()
+ {
+   bal=bal+amt
+ }
+
+
  class MASTER-CODE
  {
     ..... Master code
