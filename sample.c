@@ -1,3 +1,12 @@
+void DIV()
+{
+  C=A/B
+}
+void MUL()
+{
+  C=A*B
+}
+
 void ADDITION()
 {
   C=A+B
